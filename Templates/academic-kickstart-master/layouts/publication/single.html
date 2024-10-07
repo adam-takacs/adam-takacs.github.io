@@ -1,0 +1,82 @@
+{{- define "main" -}}
+
+<!-- 
+PTK changes:
+- added animation option
+- removed abstract and publication details (moved to page_header)
+- added image2 and image3 (with their captions)
+-->
+
+<div class="pub">
+
+  {{ partial "page_header.html" . }}
+
+  {{ with .Params.image.caption }}
+  <div class="article-container">
+    <p class="fig-caption">{{ . | markdownify }}</p>
+    <div class="space-below"></div>
+  </div>
+  {{ end }}
+
+  {{ with $image := (.Resources.ByType "image").GetMatch "*featured2*" }}
+  {{ if gt $image.Width 720 }}
+    {{ $image = $image.Resize "720x" }}
+  {{ end }}
+  <div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: {{$image.Width}}px; max-height: {{$image.Height}}px;">
+    <div style="position: relative">
+      <img src="{{ $image.RelPermalink }}" alt="{{ with $.Params.image2.alt_text }}{{.}}{{ end }}" class="featured-image">
+    </div>
+  </div>
+  {{ end }}
+
+  {{ with .Params.image2.caption }}
+  <div class="article-container">
+    <p class="fig-caption">{{ . | markdownify }}</p>
+    <div class="space-below"></div>
+  </div>
+  {{ end }}
+
+  {{ with $image := (.Resources.ByType "image").GetMatch "*featured3*" }}
+  {{ if gt $image.Width 720 }}
+    {{ $image = $image.Resize "720x" }}
+  {{ end }}
+  <div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: {{$image.Width}}px; max-height: {{$image.Height}}px;">
+    <div style="position: relative">
+      <img src="{{ $image.RelPermalink }}" alt="{{ with $.Params.image2.alt_text }}{{.}}{{ end }}" class="featured-image">
+    </div>
+  </div>
+  {{ end }}
+
+  {{ with .Params.image3.caption }}
+  <div class="article-container">
+    <p class="fig-caption">{{ . | markdownify }}</p>
+    <div class="space-below"></div>
+  </div>
+  {{ end }}
+
+  <div class="article-container">
+
+    <div class="space-below"></div>
+
+    <div class="article-style">{{ .Content }}</div>
+
+    {{ if $animation := .Params.animation }}
+      {{ with $animation.file }}
+      <div class="article-style">
+        <video width="100%" autoplay loop controls>
+          <source src="{{ . }}" type="video/mp4">
+        </video>
+      </div>
+      {{ end }}
+      {{ with $animation.caption }}
+      <div class="article-container">
+        <p class="fig-caption">{{ . | markdownify }}</p>
+      </div>
+      {{ end }}
+    {{ end }}
+
+    {{ partial "page_footer" . }}
+
+  </div>
+</div>
+{{- end -}}

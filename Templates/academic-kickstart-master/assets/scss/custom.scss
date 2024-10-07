@@ -1,0 +1,79 @@
+.home-section:first-of-type {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.dark .article-title a {
+    color: $sta-link;
+}
+
+.dark .article-title a:hover {
+    color: $sta-primary;
+}
+
+.btn-outline-primary:hover {
+    color: #fff;
+    background-color: $sta-link;
+    border-color: $sta-link;
+}
+
+.big-icon {
+    color: $sta-primary;
+}
+
+.big-icon:hover{
+    color: $sta-link;
+    transition: color 0.4s ease;
+}
+
+.card .card-text {
+    padding: 0.75rem 0.75rem 0.75rem;
+}
+
+.card .card-text ul {
+    margin-left: -1.3rem;
+    margin-top: -0.25rem;
+}
+
+.dark .card h4 a {
+    color: $sta-link;
+}
+
+.dark .card h4 a:hover {
+    color: $sta-primary;
+    transition: color 0.4s ease;
+}
+
+.article-title, .card_simple {
+    margin-bottom: 1rem !important;
+    margin-top: 0.5rem !important;
+}
+
+.fig-caption {
+    font-size: 12pt;
+}
+
+.article-metadata {
+    font-size: 12pt;
+}
+
+.media.stream-item .article-style {
+    font-size: 12pt;
+}
+
+.media.stream-item {
+    display: flex;
+    align-items: center;
+}
+
+.experience .card-text {
+    font-size: 0.8rem !important;
+}
+
+.experience .card-text p {
+    font-size: 0.8rem !important;   
+}
+
+.white-text {
+    color: #f8f8f2;
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Patrick T. Komiske III",
+  "short_name": "Patrick T. Komiske III",
+  "lang": "en-us",
+  "theme_color": "#B7602E",
+  "background_color": "#B7602E",
+  "icons": [{
+    "src": "/images/icon_hu783aee2d4500c6fdd11077e175d91a84_8326_192x192_fill_lanczos_center_2.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/images/icon_hu783aee2d4500c6fdd11077e175d91a84_8326_512x512_fill_lanczos_center_2.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}

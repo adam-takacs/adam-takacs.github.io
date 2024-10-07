@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks | Patrick T. Komiske III</title>
+    <link>https://pkomiske.com/talk/</link>
+      <atom:link href="https://pkomiske.com/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Talks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Patrick T. Komiske III</copyright><lastBuildDate>Wed, 12 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pkomiske.com/images/icon_hu783aee2d4500c6fdd11077e175d91a84_8326_512x512_fill_lanczos_center_2.png</url>
+      <title>Talks</title>
+      <link>https://pkomiske.com/talk/</link>
+    </image>
+    
+    <item>
+      <title>Optimizing Particle Physics with Machine Learning</title>
+      <link>https://pkomiske.com/talk/mitllseminar2021/</link>
+      <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://pkomiske.com/talk/mitllseminar2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OmniFold: Simultaneously Unfolding All Observables with Deep Learning</title>
+      <link>https://pkomiske.com/talk/cmsmlforum2021/</link>
+      <pubDate>Wed, 10 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://pkomiske.com/talk/cmsmlforum2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OmniFold: Improved Unfolding with Deep Learning</title>
+      <link>https://pkomiske.com/talk/lhcewjetswg2021/</link>
+      <pubDate>Mon, 08 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://pkomiske.com/talk/lhcewjetswg2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simultaneously Unfolding All Observables with Deep Learning</title>
+      <link>https://pkomiske.com/talk/jeffersonlab2021/</link>
+      <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://pkomiske.com/talk/jeffersonlab2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Hidden Geometry of Particle Collisions</title>
+      <link>https://pkomiske.com/talk/bsmpandemic2020/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://pkomiske.com/talk/bsmpandemic2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probing QCD with Energy Flow Observables</title>
+      <link>https://pkomiske.com/talk/cepc2020/</link>
+      <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://pkomiske.com/talk/cepc2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning - An Essential Toolkit for Particle Physics</title>
+      <link>https://pkomiske.com/talk/scfw2020/</link>
+      <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://pkomiske.com/talk/scfw2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Hidden Geometry of Particle Collisions</title>
+      <link>https://pkomiske.com/talk/genoa2020/</link>
+      <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://pkomiske.com/talk/genoa2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OmniFold: Simultaneously Unfolding All Observables</title>
+      <link>https://pkomiske.com/talk/ml4jets2020/</link>
+      <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://pkomiske.com/talk/ml4jets2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cutting Multiparticle Correlators Down to Size</title>
+      <link>https://pkomiske.com/talk/boost2019/</link>
+      <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://pkomiske.com/talk/boost2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Metric Space of Collider Events</title>
+      <link>https://pkomiske.com/talk/chicagoseminar2019/</link>
+      <pubDate>Wed, 29 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://pkomiske.com/talk/chicagoseminar2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Point Cloud Strategies for Boosted Objects</title>
+      <link>https://pkomiske.com/talk/lblhep2019/</link>
+      <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://pkomiske.com/talk/lblhep2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The (Metric) Space of Collider Events</title>
+      <link>https://pkomiske.com/talk/umdseminar2019/</link>
+      <pubDate>Mon, 25 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://pkomiske.com/talk/umdseminar2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Metric Space of Collider Events</title>
+      <link>https://pkomiske.com/talk/dlnshamburg/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://pkomiske.com/talk/dlnshamburg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Point Cloud Strategies for Boosted Objects</title>
+      <link>https://pkomiske.com/talk/cernseminar2019/</link>
+      <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://pkomiske.com/talk/cernseminar2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energy Flow and Jet Substructure</title>
+      <link>https://pkomiske.com/talk/harvardlunchtalk2018/</link>
+      <pubDate>Wed, 28 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://pkomiske.com/talk/harvardlunchtalk2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energy Flow Networks: Deep Sets for Particle Jets</title>
+      <link>https://pkomiske.com/talk/ml4jets2018/</link>
+      <pubDate>Thu, 15 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://pkomiske.com/talk/ml4jets2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Point Cloud Strategies for Boosted Tops</title>
+      <link>https://pkomiske.com/talk/fermilabboostedobjs/</link>
+      <pubDate>Tue, 13 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://pkomiske.com/talk/fermilabboostedobjs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing Jet Substructure via Energy Flow</title>
+      <link>https://pkomiske.com/talk/ctpjournal2018/</link>
+      <pubDate>Fri, 12 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://pkomiske.com/talk/ctpjournal2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energy Flow and Jet Substructure</title>
+      <link>https://pkomiske.com/talk/boost2018/</link>
+      <pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://pkomiske.com/talk/boost2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(Machine) Learning Jet Physics</title>
+      <link>https://pkomiske.com/talk/ctplunchtalk/</link>
+      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://pkomiske.com/talk/ctplunchtalk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jet Physics &amp; Modern Machine Learning</title>
+      <link>https://pkomiske.com/talk/harvardlunchtalk2017/</link>
+      <pubDate>Wed, 07 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://pkomiske.com/talk/harvardlunchtalk2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energy Flow Polynomials for Jet Substructure</title>
+      <link>https://pkomiske.com/talk/mitjetworkshop/</link>
+      <pubDate>Thu, 11 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://pkomiske.com/talk/mitjetworkshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linear Jet Tagging with the Energy Flow Basis</title>
+      <link>https://pkomiske.com/talk/ml4jets2017/</link>
+      <pubDate>Tue, 12 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://pkomiske.com/talk/ml4jets2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quark/Gluon Discrimination with Jet-Images and Deep Learning</title>
+      <link>https://pkomiske.com/talk/ctpjournal2017/</link>
+      <pubDate>Fri, 08 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://pkomiske.com/talk/ctpjournal2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quark/Gluon Discrimination with Jet-Images and Deep Learning</title>
+      <link>https://pkomiske.com/talk/boost2017/</link>
+      <pubDate>Tue, 18 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://pkomiske.com/talk/boost2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

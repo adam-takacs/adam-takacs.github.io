@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Patrick T. Komiske III</title>
+    <link>https://pkomiske.com/project/</link>
+      <atom:link href="https://pkomiske.com/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Patrick T. Komiske III</copyright><lastBuildDate>Sat, 12 Sep 2020 23:38:16 -0400</lastBuildDate>
+    <image>
+      <url>https://pkomiske.com/images/icon_hu783aee2d4500c6fdd11077e175d91a84_8326_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>https://pkomiske.com/project/</link>
+    </image>
+    
+    <item>
+      <title>EnergyFlow</title>
+      <link>https://pkomiske.com/project/energyflow/</link>
+      <pubDate>Sat, 12 Sep 2020 23:38:16 -0400</pubDate>
+      <guid>https://pkomiske.com/project/energyflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EnergyEnergyCorrelators</title>
+      <link>https://pkomiske.com/project/eecs/</link>
+      <pubDate>Wed, 12 Aug 2020 23:38:16 -0400</pubDate>
+      <guid>https://pkomiske.com/project/eecs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wasserstein</title>
+      <link>https://pkomiske.com/project/wasserstein/</link>
+      <pubDate>Sun, 12 Jul 2020 23:38:16 -0400</pubDate>
+      <guid>https://pkomiske.com/project/wasserstein/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MOD</title>
+      <link>https://pkomiske.com/project/mod/</link>
+      <pubDate>Fri, 12 Jun 2020 23:38:16 -0400</pubDate>
+      <guid>https://pkomiske.com/project/mod/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EventGeneration</title>
+      <link>https://pkomiske.com/project/eventgen/</link>
+      <pubDate>Tue, 12 May 2020 23:38:16 -0400</pubDate>
+      <guid>https://pkomiske.com/project/eventgen/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
